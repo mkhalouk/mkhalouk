@@ -1,18 +1,9 @@
-<table style="border: none">
-<tr>
-<td valign="center">
-
-# Hi 👋, I'm Mustapha Khalouk
-### A passionate software developer from France / Morocco
-
-</td>
-<td valign="top">
-
 <p align="right"> <img src="https://res.cloudinary.com/mkhalouk/image/upload/v1686866722/portfolio/hi_biitmoji_nobg_oo2euc.png" alt="mkhalouk" /> </p>
 
-</td>
-</tr>
-</table>
+# Hi 👋, I'm Mustapha Khalouk
+### A passionate software developer from France / Morocco 
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkhalouk&label=Profile%20views&color=0e75b6&style=flat" alt="mkhalouk" /> </p>
 
