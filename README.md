@@ -2,7 +2,7 @@
 
 <p>
   <h1>Hi 👋, I'm Mustapha Khalouk</h1>
-  <h3>A passionate software developer from France / Morocco</h3>
+  <h3>A passionate software developer from France</h3>
 </p>
 
 
